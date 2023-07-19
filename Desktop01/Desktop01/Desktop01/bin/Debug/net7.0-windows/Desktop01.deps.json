@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Desktop01/1.0.0": {
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0-preview1"
+        },
+        "runtime": {
+          "Desktop01.dll": {}
+        }
+      },
+      "CommunityToolkit.Mvvm/8.2.0-preview1": {
+        "runtime": {
+          "lib/net6.0/CommunityToolkit.Mvvm.dll": {
+            "assemblyVersion": "8.2.0.0",
+            "fileVersion": "8.2.0.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desktop01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommunityToolkit.Mvvm/8.2.0-preview1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f0MRwQY95S6RB5iAe0wuDniY9duLuICr/wxS/vjKi+ZrUYlY3Tm7dAeJxhR6bn72Wd325dz29+mAgymRAdSbXw==",
+      "path": "communitytoolkit.mvvm/8.2.0-preview1",
+      "hashPath": "communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+    }
+  }
+}

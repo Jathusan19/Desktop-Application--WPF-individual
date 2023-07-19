@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+OVyVpf2igs8xSWXWN7j4BmgqNEeOi9nT86Wpx1DKrEiUZWnUSEap1DkOWLh0IUw5xHmJPjbKZipQoCPtUZKhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Downloads\\Desktop01\\Desktop01\\Desktop01\\Desktop01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512"
+  ],
+  "logs": []
+}
